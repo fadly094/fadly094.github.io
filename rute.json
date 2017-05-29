@@ -1,0 +1,129 @@
+{
+	"koridor": [
+		{
+			"name": "Koridor 2",
+			"rute": [
+				{
+					"name": "Mall GTC -> Mall Panakukang",
+					"halte": [
+						{"kode": "21.1", "name": "Mall GTC", "lat":119.39001, "lng": -5.21806, "img": "21.1.jpg"},
+						{"kode": "21.2", "name": "Trans Studio Mall", "lat":119.39282, "lng": -5.19074, "img": "21.2.jpg"},
+						{"kode": "21.3", "name": "Losari", "lat":119.40786, "lng": -5.18309, "img": "21.3.jpg"},
+						{"kode": "21.4", "name": "Fort Rotterdam", "lat":119.4045, "lng": -5.17517, "img": "21.4.jpg"},
+						{"kode": "21.5", "name": "Pemuda Moda Ribora'ne", "lat":119.4064, "lng": -5.17297, "img": "21.5.jpg"},
+						{"kode": "21.6", "name": "Karebosi Link", "lat":119.41242, "lng": -5.16691, "img": "21.6.jpg"},
+						{"kode": "21.7", "name": "Masjid Raya", "lat":119.41988, "lng": -5.218111, "img": "21.7.jpg"},
+						{"kode": "21.8", "name": "Al - Markas", "lat":119.42645, "lng": -5.138819, "img": "21.8.jpg"}
+					]
+				}, {
+					"name": "Mall Panakukang -> Mall GTC",
+					"halte": [
+						{"kode": "22.1", "name": "Mall Panakkukang", "lat":119.565385, "lng": -5.218111, "img": "22.1.jpg"},
+						{"kode": "22.2", "name": "SMA 1 Makassar", "lat":119.41941, "lng": -5.13521, "img": "22.2.jpg"},
+						{"kode": "22.3", "name": "RS. Plamonia", "lat":119.41419, "lng": -5.13722, "img": "22.3.jpg"},
+						{"kode": "22.4", "name": "Mall Ratu Indah", "lat":119.41633, "lng": -5.15321, "img": "22.4.jpg"},
+						{"kode": "22.5", "name": "Rajawali", "lat":119.41021, "lng": -5.15068, "img": "22.5.jpg"},
+						{"kode": "22.6", "name": "Mall GTC", "lat":119.39001, "lng": -5.21806, "img": "22.6.jpg"}
+					]
+				}
+			]
+		}, {
+			"name": "Koridor 3",
+			"rute": [
+				{
+					"name": "Terminal Palangga Sungguminasa -> Bandara Sultan Hasanuddin",
+					"halte": [
+						{"kode": "31.1", "name": "Terminal Palangga", "lat":119.44732, "lng": -5.21806, "img": "31.1.jpg"},
+						{"kode": "31.2", "name": "Batas Kota", "lat":119.4424, "lng": -5.19074, "img": "31.2.jpg"},
+						{"kode": "31.3", "name": "Badan Arsip Negara", "lat":119.44055, "lng": -5.18309, "img": "31.3.jpg"},
+						{"kode": "31.4", "name": "Universitas Islam Negeri Makassar", "lat":119.43322, "lng": -5.17517, "img": "31.4.jpg"},
+						{"kode": "31.5", "name": "MAN 2 Model Makassar", "lat":119.43172, "lng": -5.17297, "img": "31.5.jpg"},
+						{"kode": "31.6", "name": "LPMP", "lat":119.43434, "lng": -5.16691, "img": "31.6.jpg"},
+						{"kode": "31.7", "name": "Mall Panakkukang", "lat":119.565385, "lng": -5.218111, "img": "31.7.jpg"},
+						{"kode": "31.8", "name": "UMI (Universitas Muslim Indonesia)", "lat":119.44775, "lng": -5.138819, "img": "31.8.jpg"},
+						{"kode": "31.9", "name": "Kantor Gubernur", "lat":119.453879, "lng": -5.141545, "img": "31.9.jpg"},
+						{"kode": "31.10", "name": "Gereja Protestan Indonesai bag. Baarat", "lat":119.46856, "lng": -5.14586, "img": "31.10.jpg"},
+						{"kode": "31.11", "name": "Makassar Town Squer", "lat":119.47529, "lng": -5.14374, "img": "31.11.jpg"},
+						{"kode": "31.12", "name": "UIM (Universitas Islam Makassar)", "lat":119.481962, "lng": -5.141801, "img": "31.12.jpg"},
+						{"kode": "31.13", "name": "STMIK Dipanegara", "lat":119.483059, "lng": -5.141448, "img": "31.13.jpg"},
+						{"kode": "31.14", "name": "Printis kemesrdekaan Km. 9", "lat":119.48587, "lng": -5.14113, "img": "31.14.jpg"},
+						{"kode": "31.15", "name": "Dinas Pendidikan", "lat":119.492744, "lng": -5.138907, "img": "31.15.jpg"},
+						{"kode": "31.16", "name": "Cokrominoto", "lat":119.496365, "lng": -5.135522, "img": "31.16.jpg"},
+						{"kode": "31.17", "name": "Pintu 2 Unhas", "lat":119.49277, "lng": -5.1388, "img": "31.17.jpg"},
+						{"kode": "31.18", "name": "PoliNas LP3I", "lat":119.50332, "lng": -5.12611, "img": "31.18.jpg"},
+						{"kode": "31.19", "name": "Terminal Daya", "lat":119.50645, "lng": -5.11027, "img": "31.19.jpg"},
+						{"kode": "31.20", "name": "Dinas Perhubungan", "lat":119.51156, "lng": -5.10216, "img": "31.20.jpg"},
+						{"kode": "31.21", "name": "Bulurokeng Permai", "lat":119.51516, "lng": -5.09154, "img": "31.21.jpg"},
+						{"kode": "31.22", "name": "Kementrian Lingkungan Hidup", "lat":119.51935, "lng": -5.08625, "img": "31.22.jpg"},
+						{"kode": "31.23", "name": "Citra Sudiang Indah", "lat":119.521, "lng": -5.0818, "img": "31.23.jpg"},
+						{"kode": "31.24", "name": "Bumi Permata Sudiang", "lat":119.52316, "lng": -5.07465, "img": "31.24.jpg"},
+						{"kode": "31.25", "name": " Bandara Sultan Hasanuddin", "lat":119.547153, "lng": -5.075383, "img": "31.25.jpg"}
+					]
+				}, {
+					"name": "Bandara Sultan Hasanuddin -> Terminal Palangga Sungguminasa",
+					"halte": [
+						{"kode": "32.1", "name": "Bandara Sultan Hasanuddin", "lat":119.547367, "lng": -5.075439, "img": "32.1.jpg"},
+						{"kode": "32.2", "name": "Bumi Permata Sudiang", "lat":119.52327, "lng": -5.07471, "img": "32.2.jpg"},
+						{"kode": "32.3", "name": "Citra Sudiang permai", "lat":119.52126, "lng": -5.08161, "img": "32.3.jpg"},
+						{"kode": "32.4", "name": "Kementrian Lingkungan Hidup", "lat":119.5197, "lng": -5.08568, "img": "32.4.jpg"},
+						{"kode": "32.5", "name": "Bulurokeng Permai", "lat":119.51542, "lng": -5.09146, "img": "32.5.jpg"},
+						{"kode": "32.6", "name": "Dinas Perhubungan", "lat":119.51133, "lng": -5.10208, "img": "32.6.jpg"},
+						{"kode": "32.7", "name": "Daya", "lat":119.511281, "lng": -5.110421, "img": "32.7.jpg"},
+						{"kode": "32.8", "name": "Perintis Kemerdekan Km.13", "lat":119.50993, "lng": -5.11923, "img": "32.8.jpg"},
+						{"kode": "32.9", "name": "Jl. Perintis Kem. No.5, Tamalanrea ", "lat":119.492827, "lng": -5.13911, "img": "32.9.jpg"},
+						{"kode": "32.10", "name": "Jl. Perintis Kem. No.9, Tamalanrea Jaya", "lat":119.44821, "lng": -5.14009, "img": "32.10.jpg"},
+						{"kode": "32.11", "name": "Cokrominoto", "lat":119.497376, "lng": -5.134801, "img": "32.11.jpg"},
+						{"kode": "32.12", "name": "Dinas Pendidikan", "lat":119.49295, "lng": -5.139, "img": "32.12.jpg"},
+						{"kode": "32.13", "name": "Pintu 1 Unhas", "lat":119.49039, "lng": -5.14077, "img": "32.13.jpg"},
+						{"kode": "32.14", "name": "Jl. Urip Sumoharjo No.25, Panaikang", "lat":119.45764, "lng": -5.14268, "img": "32.14.jpg"},
+						{"kode": "32.15", "name": "Urip Sumiharjo", "lat":119.45337, "lng": -5.14127, "img": "32.15.jpg"},
+						{"kode": "32.16", "name": "Kantor Gubernur", "lat":119.44821, "lng": -5.14009, "img": "32.16.jpg"},
+						{"kode": "32.17", "name": "Universitas Bosowa", "lat":119.44317, "lng": -5.13814, "img": "32.17.jpg"},
+						{"kode": "32.18", "name": "Mall Panakkukang", "lat":119.565385, "lng": -5.218111, "img": "32.18.jpg"},
+						{"kode": "32.19", "name": "Universitas Negeri Makassar", "lat":119.43445, "lng": -5.166805, "img": "32.19.jpg"},
+						{"kode": "32.20", "name": "Telkom Indonesia", "lat":119.43183, "lng": -5.17316, "img": "32.20.jpg"},
+						{"kode": "32.21", "name": "Universitas Islam Negeri Makassar", "lat":119.43399, "lng": -517531, "img": "32.21.jpg"},
+						{"kode": "32.22", "name": "Universitas Muhammadia Makassar", "lat":119.4407, "lng": -5.18306, "img": "32.22.jpg"},
+						{"kode": "32.23", "name": "Batas Kota", "lat":119.44257, "lng": -5.19068, "img": "32.23.jpg"},
+						{"kode": "32.24", "name": "SMA 1 Gowa", "lat":119.4471, "lng": -5.20323, "img": "32.24.jpg"},
+						{"kode": "32.25", "name": "Terminal Palangga", "lat":119.44732, "lng": -5.21806, "img": "32.25.jpg"}
+					]
+				}
+			]
+		}, {
+			"name": "Koridor 4",
+			"rute": [
+				{
+					"name": "Terminal Daya -> Terminal Maros",
+					"halte": [
+						{"kode": "41.1", "name": "Terminal Daya", "lat":119.50645, "lng": -5.11027, "img": "41.1.jpg"},
+						{"kode": "41.2", "name": "Dinas Perhubungan", "lat":119.51156, "lng": -5.10216, "img": "41.2.jpg"},
+						{"kode": "41.3", "name": "Bulurokeng Permai", "lat":119.51516, "lng": -5.09154, "img": "41.3.jpg"},
+						{"kode": "41.4", "name": "Kementrian Lingkungan Hidup", "lat":119.51935, "lng": -5.08625, "img": "41.4.jpg"},
+						{"kode": "41.5", "name": "Citra Sudiang Indah", "lat":119.521, "lng": -5.0818, "img": "41.5.jpg"},
+						{"kode": "41.6", "name": "Bumi Permata Sudiang", "lat":119.52316, "lng": -5.07465, "img": "41.6.jpg"},
+						{"kode": "41.7", "name": "Poros Makassar Maros", "lat":119.5463, "lng": -5.05367, "img": "41.7.jpg"},
+						{"kode": "41.8", "name": "Graha Cemerlang", "lat":119.55122, "lng": -5.04913, "img": "41.8.jpg"},
+						{"kode": "41.9", "name": "Badan Diklat maros", "lat":119.5708, "lng": -5.5708, "img": "41.9.jpg"},
+						{"kode": "41.10", "name": "Masjid Al - Markas Maros", "lat":119.57347, "lng": -5.01487, "img": "41.10.jpg"},
+						{"kode": "41.11", "name": "Terminal Maros", "lat":119.57431, "lng": -5.0137, "img": "41.11.jpg"}
+					]
+				}, {
+					"name": "Terminal Maros -> Terminal Daya",
+					"halte": [
+						{"kode": "42.1", "name": "Terminal Maros", "lat":119.57431, "lng": -5.0137, "img": "42.1.jpg"},
+						{"kode": "42.2", "name": "Kantor Camat Mandai", "lat":119.5583, "lng": -5.04833, "img": "42.2.jpg"},
+						{"kode": "42.3", "name": "RSUD Salewangan", "lat":119.5704, "lng": -5.02944, "img": "42.3.jpg"},
+						{"kode": "42.4", "name": "Pompes Darul Istiqomah", "lat":119.56828, "lng": -5.04153, "img": "42.4.jpg"},
+						{"kode": "42.5", "name": "Bumi Permata Sudiang", "lat":119.52327, "lng": -5.07471, "img": "42.5.jpg"},
+						{"kode": "42.6", "name": "Citra Sudiang Indah", "lat":119.52327, "lng": -5.08161, "img": "42.6.jpg"},
+						{"kode": "42.7", "name": "Kementrian Lingkungan Hidup", "lat":119.5197, "lng": -5.08161, "img": "42.7.jpg"},
+						{"kode": "42.8", "name": "Bulurokeng Permai", "lat":119.51542, "lng": -5.09146, "img": "42.8.jpg"},
+						{"kode": "42.9", "name": "Dinas Perhubungan", "lat":119.51133, "lng": -5.10208, "img": "42.9.jpg"},
+						{"kode": "42.10", "name": "Daya", "lat":119.511281, "lng": -5.110421, "img": "42.10.jpg"}
+					]
+				}
+			]
+		}
+	]
+}
