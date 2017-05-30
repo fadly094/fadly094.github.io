@@ -18,7 +18,7 @@
 				}, {
 					"name": "Mall Panakukang -> Mall GTC",
 					"halte": [
-						{"kode": "22.1", "name": "Mall Panakkukang", "lng": 119.565385, "lat": -5.218111, "img": "22.1.jpg"},
+						{"kode": "22.1", "name": "Mall Panakkukang", "lng": 119.446450, "lat": -5.156940, "img": "22.1.jpg"},
 						{"kode": "22.2", "name": "SMA 1 Makassar", "lng": 119.41941, "lat": -5.13521, "img": "22.2.jpg"},
 						{"kode": "22.3", "name": "RS. Plamonia", "lng": 119.41419, "lat": -5.13722, "img": "22.3.jpg"},
 						{"kode": "22.4", "name": "Mall Ratu Indah", "lng": 119.41633, "lat": -5.15321, "img": "22.4.jpg"},
@@ -39,7 +39,7 @@
 						{"kode": "31.4", "name": "Universitas Islam Negeri Makassar", "lng": 119.43322, "lat": -5.17517, "img": "31.4.jpg"},
 						{"kode": "31.5", "name": "MAN 2 Model Makassar", "lng": 119.43172, "lat": -5.17297, "img": "31.5.jpg"},
 						{"kode": "31.6", "name": "LPMP", "lng": 119.43434, "lat": -5.16691, "img": "31.6.jpg"},
-						{"kode": "31.7", "name": "Mall Panakkukang", "lng": 119.565385, "lat": -5.218111, "img": "31.7.jpg"},
+						{"kode": "31.7", "name": "Mall Panakkukang", "lng": 119.446450, "lat": -5.156940, "img": "31.7.jpg"},
 						{"kode": "31.8", "name": "UMI (Universitas Muslim Indonesia)", "lng": 119.44775, "lat": -5.138819, "img": "31.8.jpg"},
 						{"kode": "31.9", "name": "Kantor Gubernur", "lng": 119.453879, "lat": -5.141545, "img": "31.9.jpg"},
 						{"kode": "31.10", "name": "Gereja Protestan Indonesai bag. Baarat", "lng": 119.46856, "lat": -5.14586, "img": "31.10.jpg"},
@@ -79,7 +79,7 @@
 						{"kode": "32.15", "name": "Urip Sumiharjo", "lng": 119.45337, "lat": -5.14127, "img": "32.15.jpg"},
 						{"kode": "32.16", "name": "Kantor Gubernur", "lng": 119.44821, "lat": -5.14009, "img": "32.16.jpg"},
 						{"kode": "32.17", "name": "Universitas Bosowa", "lng": 119.44317, "lat": -5.13814, "img": "32.17.jpg"},
-						{"kode": "32.18", "name": "Mall Panakkukang", "lng": 119.565385, "lat": -5.218111, "img": "32.18.jpg"},
+						{"kode": "32.18", "name": "Mall Panakkukang", "lng": 119.446450, "lat": -5.156940, "img": "32.18.jpg"},
 						{"kode": "32.19", "name": "Universitas Negeri Makassar", "lng": 119.43445, "lat": -5.166805, "img": "32.19.jpg"},
 						{"kode": "32.20", "name": "Telkom Indonesia", "lng": 119.43183, "lat": -5.17316, "img": "32.20.jpg"},
 						{"kode": "32.21", "name": "Universitas Islam Negeri Makassar", "lng": 119.43399, "lat": -517531, "img": "32.21.jpg"},
