@@ -13,7 +13,8 @@
 						{"kode": "21.5", "name": "Pemuda Moda Ribora'ne", "lng": 119.4064, "lat": -5.17297, "img": "21.5.jpg"},
 						{"kode": "21.6", "name": "Karebosi Link", "lng": 119.41242, "lat": -5.16691, "img": "21.6.jpg"},
 						{"kode": "21.7", "name": "Masjid Raya", "lng": 119.41988, "lat": -5.218111, "img": "21.7.jpg"},
-						{"kode": "21.8", "name": "Al - Markas", "lng": 119.42645, "lat": -5.138819, "img": "21.8.jpg"}
+						{"kode": "21.8", "name": "Al - Markaz", "lng": 119.42645, "lat": -5.138819, "img": "21.8.jpg"},
+						{"kode": "21.9", "name": "Mall Panakkukang", "lng": 119.446106, "lat": -5.1581588, "img": "22.1.jpg"}
 					]
 				}, {
 					"name": "Mall Panakukang -> Mall GTC",
