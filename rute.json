@@ -6,25 +6,25 @@
 				{
 					"name": "Mall GTC -> Mall Panakukang",
 					"halte": [
-						{"kode": "21.1", "name": "Mall GTC", "lng": 119.39001, "lat": -5.21806, "img": "21.1.jpg"},
-						{"kode": "21.2", "name": "Trans Studio Mall", "lng": 119.39282, "lat": -5.19074, "img": "21.2.jpg"},
-						{"kode": "21.3", "name": "Losari", "lng": 119.40786, "lat": -5.18309, "img": "21.3.jpg"},
-						{"kode": "21.4", "name": "Fort Rotterdam", "lng": 119.4045, "lat": -5.17517, "img": "21.4.jpg"},
-						{"kode": "21.5", "name": "Pemuda Moda Ribora'ne", "lng": 119.4064, "lat": -5.17297, "img": "21.5.jpg"},
-						{"kode": "21.6", "name": "Karebosi Link", "lng": 119.41242, "lat": -5.16691, "img": "21.6.jpg"},
-						{"kode": "21.7", "name": "Masjid Raya", "lng": 119.41988, "lat": -5.218111, "img": "21.7.jpg"},
-						{"kode": "21.8", "name": "Al - Markaz", "lng": 119.42645, "lat": -5.138819, "img": "21.8.jpg"},
-						{"kode": "21.9", "name": "Mall Panakkukang", "lng": 119.446106, "lat": -5.1581588, "img": "21.9.jpg"}
+						{"kode": "21.1", "name": "Mall GTC", "lng": 119.3872905, "lat": -5.1700569, "img": "21.1.jpg"},
+						{"kode": "21.2", "name": "Trans Studio Mall", "lng": 119.3939424, "lat": -5.1600982, "img": "21.2.jpg"},
+						{"kode": "21.3", "name": "Losari", "lng": 119.4080081, "lat": -5.1431851, "img": "21.3.jpg"},
+						{"kode": "21.4", "name": "Fort Rotterdam", "lng": 119.4052611, "lat": -5.1335175, "img": "21.4.jpg"},
+						{"kode": "21.5", "name": "Pemuda Moda Ribora'ne", "lng": 119.4066189, "lat": -5.1324123, "img": "21.5.jpg"},
+						{"kode": "21.6", "name": "Karebosi Link", "lng": 119.4118741, "lat": -5.1330682, "img": "21.6.jpg"},
+						{"kode": "21.7", "name": "Masjid Raya", "lng": 119.4221365, "lat": -5.1312576, "img": "21.7.jpg"},
+						{"kode": "21.8", "name": "Al - Markaz", "lng": 119.4270144, "lat": -5.1320059, "img": "21.8.jpg"},
+						{"kode": "21.9", "name": "Mall Panakkukang", "lng": 119.4462055, "lat": -5.1561252, "img": "21.9.jpg"}
 					]
 				}, {
 					"name": "Mall Panakukang -> Mall GTC",
 					"halte": [
-						{"kode": "22.1", "name": "Mall Panakkukang", "lng": 119.446106, "lat": -5.1581588, "img": "22.1.jpg"},
-						{"kode": "22.2", "name": "SMA 1 Makassar", "lng": 119.41941, "lat": -5.13521, "img": "22.2.jpg"},
-						{"kode": "22.3", "name": "RS. Plamonia", "lng": 119.41419, "lat": -5.13722, "img": "22.3.jpg"},
-						{"kode": "22.4", "name": "Mall Ratu Indah", "lng": 119.41633, "lat": -5.15321, "img": "22.4.jpg"},
-						{"kode": "22.5", "name": "Rajawali", "lng": 119.41021, "lat": -5.15068, "img": "22.5.jpg"},
-						{"kode": "22.6", "name": "Mall GTC", "lng": 119.39001, "lat": -5.21806, "img": "22.6.jpg"}
+						{"kode": "22.1", "name": "Mall Panakkukang", "lng": 119.4462055, "lat": -5.1561252, "img": "22.1.jpg"},
+						{"kode": "22.2", "name": "SMA 1 Makassar", "lng": 119.4137554, "lat": -5.1327314, "img": "22.2.jpg"},
+						{"kode": "22.3", "name": "RS. Plamonia", "lng": 119.4141708, "lat": -5.1381227, "img": "22.3.jpg"},
+						{"kode": "22.4", "name": "Mall Ratu Indah", "lng": 119.4161896, "lat": -5.1546691, "img": "22.4.jpg"},
+						{"kode": "22.5", "name": "Rajawali", "lng": 119.4161896, "lat": -5.1546691, "img": "22.5.jpg"},
+						{"kode": "22.6", "name": "Mall GTC", "lng": 119.3872905, "lat": -5.1700569, "img": "22.6.jpg"}
 					]
 				}
 			]
@@ -49,7 +49,6 @@
 						{"kode": "31.13", "name": "STMIK Dipanegara", "lng": 119.483059, "lat": -5.141448, "img": "31.13.jpg"},
 						{"kode": "31.14", "name": "Printis kemesrdekaan Km. 9", "lng": 119.48587, "lat": -5.14113, "img": "31.14.jpg"},
 						{"kode": "31.15", "name": "Dinas Pendidikan", "lng": 119.492744, "lat": -5.138907, "img": "31.15.jpg"},
-						{"kode": "31.16", "name": "Cokrominoto", "lng": 119.496365, "lat": -5.135522, "img": "31.16.jpg"},
 						{"kode": "31.17", "name": "Pintu 2 Unhas", "lng": 119.49277, "lat": -5.1388, "img": "31.17.jpg"},
 						{"kode": "31.18", "name": "PoliNas LP3I", "lng": 119.50332, "lat": -5.12611, "img": "31.18.jpg"},
 						{"kode": "31.19", "name": "Terminal Daya", "lng": 119.50645, "lat": -5.11027, "img": "31.19.jpg"},
@@ -73,7 +72,7 @@
 						{"kode": "32.8", "name": "Perintis Kemerdekan Km.13", "lng": 119.50993, "lat": -5.11923, "img": "32.8.jpg"},
 						{"kode": "32.9", "name": "Jl. Perintis Kem. No.5, Tamalanrea ", "lng": 119.492827, "lat": -5.13911, "img": "32.9.jpg"},
 						{"kode": "32.10", "name": "Jl. Perintis Kem. No.9, Tamalanrea Jaya", "lng": 119.44821, "lat": -5.14009, "img": "32.10.jpg"},
-						{"kode": "32.11", "name": "Cokrominoto", "lng": 119.497376, "lat": -5.134801, "img": "32.11.jpg"},
+						{"kode": "32.11", "name": "Cokroaminto", "lng": 119.497376, "lat": -5.134801, "img": "32.11.jpg"},
 						{"kode": "32.12", "name": "Dinas Pendidikan", "lng": 119.49295, "lat": -5.139, "img": "32.12.jpg"},
 						{"kode": "32.13", "name": "Pintu 1 Unhas", "lng": 119.49039, "lat": -5.14077, "img": "32.13.jpg"},
 						{"kode": "32.14", "name": "Jl. Urip Sumoharjo No.25, Panaikang", "lng": 119.45764, "lat": -5.14268, "img": "32.14.jpg"},
