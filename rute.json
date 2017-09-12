@@ -9,10 +9,10 @@
 						{"show": "true", "kode": "21.1", "name": "Mall GTC", "lng": 119.390419, "lat": -5.1696329, "img": "21.1.jpg"},
 						{"show": "true", "kode": "21.2", "name": "Trans Studio Mall", "lng": 119.3952743, "lat": -5.1622295, "img": "21.2.jpg"},
 						{"show": "true", "kode": "21.3", "name": "Losari", "lng": 119.4079509, "lat": -5.1432925, "img": "21.3.jpg"},
-						{"show": "true", "kode": "21.4", "name": "Fort Rotterdam", "lng": 119.4048114, "lat": -5.1336918, "img": "21.4.jpg"},
+						{"show": "true", "kode": "21.4", "name": "Fort Rotterdam", "lng": 119.404579, "lat": -5.133679, "img": "21.4.jpg"},
 						{"show": "true", "kode": "21.5", "name": "Pemuda Moda Ribora'ne", "lng": 119.4064363, "lat": -5.1323475, "img": "21.5.jpg"},
 						{"show": "true", "kode": "21.6", "name": "Karebosi Link", "lng": 119.4122013, "lat": -5.1331919, "img": "21.6.jpg"},
-						{"show": "true", "kode": "21.7", "name": "Masjid Raya", "lng": 119.4205335, "lat": -5.1313072, "img": "21.7.jpg"},
+						{"show": "true", "kode": "21.7", "name": "Masjid Raya", "lng": 119.404579, "lat": -5.133679, "img": "21.7.jpg"},
 						{"show": "true", "kode": "21.8", "name": "Al - Markaz", "lng": 119.4269754, "lat": -5.1319137, "img": "21.8.jpg"},
 						{"show": "true", "kode": "21.9", "name": "Mall Panakkukang", "lng": 119.4466841, "lat": -5.1568991, "img": "21.9.jpg"}
 					]
@@ -21,8 +21,11 @@
 					"halte": [
 						{"show": "true", "kode": "22.1", "name": "Mall Panakkukang", "lng": 119.4466841, "lat": -5.1568991, "img": "22.1.jpg"},
 						{"show": "true", "kode": "22.2", "name": "SMA 1 Makassar", "lng": 119.4193117, "lat": -5.1351556, "img": "22.2.jpg"},
-						{"show": "true", "kode": "22.3", "name": "RS. Plamonia", "lng": 119.4145114, "lat": -5.1372283, "img": "22.3.jpg"},
+						{"show": "true", "kode": "22.3", "name": "RS. Plamonia", "lng": 119.414184, "lat": -5.137373, "img": "22.3.jpg"},
 						{"show": "true", "kode": "22.4", "name": "Mall Ratu Indah", "lng": 119.416536, "lat": -5.1530979, "img": "22.4.jpg"},
+						{"show": "false", "kode": "", "name": "", "lng": 119.417438, "lat": -5.161694, "img": ""},
+						{"show": "false", "kode": "", "name": "", "lng": 119.412425, "lat": -5.161237, "img": ""},
+						{"show": "false", "kode": "", "name": "", "lng": 119.410617, "lat": -5.158776, "img": ""},
 						{"show": "true", "kode": "22.5", "name": "Rajawali", "lng": 119.4098525, "lat": -5.1495558, "img": "22.5.jpg"},
 						{"show": "true", "kode": "22.6", "name": "Mall GTC", "lng": 119.390281, "lat": -5.1697912, "img": "22.6.jpg"}
 					]
