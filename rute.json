@@ -103,7 +103,7 @@
 						{"show": "true", "kode": "41.3", "name": "Bulurokeng Permai", "lng": 119.514690, "lat": -5.091979, "img": "41.3.jpg"},
 						{"show": "true", "kode": "41.4", "name": "Kementrian Lingkungan Hidup", "lng": 119.516950, "lat": -5.090016, "img": "41.4.jpg"},
 						{"show": "true", "kode": "41.5", "name": "Citra Sudiang Indah", "lng": 119.519417, "lat": -5.086149, "img": "41.5.jpg"},
-						{"show": "true", "kode": "41.6", "name": "Bumi Permata Sudiang", "lng": 119.522974, "lat": -5.075432, "img": "41.6.jpg"},
+						{"show": "true", "kode": "41.6", "name": "Bumi Permata Sudiang", "lng": 119.522801, "lat": -5.075762, "img": "41.6.jpg"},
 						{"show": "true", "kode": "41.7", "name": "Poros Makassar Maros", "lng": 119.539050, "lat": -5.055677, "img": "41.7.jpg"},
 						{"show": "true", "kode": "41.8", "name": "Graha Cemerlang", "lng": 119.5506099, "lat": -5.049437, "img": "41.8.jpg"},
 						{"show": "true", "kode": "41.9", "name": "Badan Diklat maros", "lng": 119.564038, "lat": -5.045853, "img": "41.9.jpg"},
@@ -117,11 +117,11 @@
 						{"show": "true", "kode": "42.2", "name": "Kantor Camat Mandai", "lng": 119.5723134, "lat": -5.020211, "img": "42.2.jpg"},
 						{"show": "true", "kode": "42.3", "name": "RSUD Salewangan", "lng": 119.573200, "lat": -5.016541, "img": "42.3.jpg"},
 						{"show": "true", "kode": "42.4", "name": "Pompes Darul Istiqomah", "lng": 119.5678153, "lat": -5.0418887, "img": "42.4.jpg"},
-						{"show": "true", "kode": "42.5", "name": "Bumi Permata Sudiang", "lng": 119.5231388, "lat": -5.0756252, "img": "42.5.jpg"},
-						{"show": "true", "kode": "42.6", "name": "Citra Sudiang Indah", "lng": 119.5215364, "lat": -5.0813855, "img": "42.6.jpg"},
+						{"show": "true", "kode": "42.5", "name": "Bumi Permata Sudiang", "lng": 119.523013, "lat": -5.075594, "img": "42.5.jpg"},
+						{"show": "true", "kode": "42.6", "name": "Citra Sudiang Indah", "lng": 119.521258, "lat": -5.081489, "img": "42.6.jpg"},
 						{"show": "true", "kode": "42.7", "name": "Kementrian Lingkungan Hidup", "lng": 119.5202974, "lat": -5.0842971, "img": "42.7.jpg"},
-						{"show": "true", "kode": "42.8", "name": "Bulurokeng Permai", "lng": 119.5148431, "lat": -5.0920099, "img": "42.8.jpg"},
-						{"show": "true", "kode": "42.9", "name": "Dinas Perhubungan", "lng": 119.5114583, "lat": -5.1032948, "img": "42.9.jpg"},
+						{"show": "true", "kode": "42.8", "name": "Bulurokeng Permai", "lng": 119.514714, "lat": -5.092027, "img": "42.8.jpg"},
+						{"show": "true", "kode": "42.9", "name": "Dinas Perhubungan", "lng": 119.511262, "lat": -5.103190, "img": "42.9.jpg"},
 						{"show": "true", "kode": "42.10", "name": "Daya", "lng": 119.5115331, "lat": -5.1121326, "img": "42.10.jpg"}
 
 					]
