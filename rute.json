@@ -65,6 +65,7 @@
 					"name": "Bandara Sultan Hasanuddin -> Terminal Palangga Sungguminasa",
 					"halte": [
 						{"show": "true", "kode": "32.1", "name": "Bandara Sultan Hasanuddin", "lng": 119.546747, "lat": -5.076043, "img":"32.1.jpg"},
+						{"show": "false", "kode": "", "name": "dummy", "lng": 119.526308, "lat": -5.068230,  "img": "31.6.jpg"},
 						{"show": "true", "kode": "32.2", "name": "Bumi Permata Sudiang", "lng": 119.522979, "lat": -5.075596, "img":"32.2.jpg"},
 						{"show": "true", "kode": "32.3", "name": "Citra Sudiang permai", "lng": 119.521441, "lat": -5.081193, "img":"32.3.jpg"},
 						{"show": "true", "kode": "32.4", "name": "Kementrian Lingkungan Hidup", "lng": 119.5202974, "lat": -5.0842971, "img":"32.4.jpg"},
