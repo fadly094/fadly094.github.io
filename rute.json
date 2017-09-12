@@ -40,7 +40,7 @@
 						{"show": "true", "kode": "31.4", "name": "Universitas Islam Negeri Makassar", "lng": 119.434551, "lat": -5.175769, "img": "31.4.jpg"},
 						{"show": "true", "kode": "31.5", "name": "MAN 2 Model Makassar", "lng": 119.431547, "lat": -5.173419, "img": "31.5.jpg"},
 						{"show": "true", "kode": "31.6", "name": "LPMP", "lng": 119.434546, "lat": -5.166576, "img": "31.6.jpg"},
-						{"show": "false", "kode": "31.6", "name": "dummy", "lng": 119.436929, "lat": -5.155162,  "img": "31.6.jpg"},
+						{"show": "false", "kode": "", "name": "dummy", "lng": 119.436929, "lat": -5.155162,  "img": "31.6.jpg"},
 						{"show": "true", "kode": "31.7", "name": "Mall Panakkukang", "lng": 119.4466841, "lat": -5.1568991, "img": "31.7.jpg"},
 						{"show": "true", "kode": "31.8", "name": "UMI (Universitas Muslim Indonesia)", "lng": 119.447163, "lat": -5.139032, "img": "31.8.jpg"},
 						{"show": "true", "kode": "31.9", "name": "Kantor Gubernur", "lng": 119.451793, "lat": -5.140540, "img": "31.9.jpg"},
@@ -58,7 +58,7 @@
 						{"show": "true", "kode": "31.22", "name": "Kementrian Lingkungan Hidup", "lng": 119.516950, "lat": -5.090016, "img": "31.22.jpg"},
 						{"show": "true", "kode": "31.23", "name": "Citra Sudiang Indah", "lng": 119.519417, "lat": -5.086149, "img": "31.23.jpg"},
 						{"show": "true", "kode": "31.24", "name": "Bumi Permata Sudiang", "lng": 119.522974, "lat": -5.075432, "img": "31.24.jpg"},
-						{"show": "false", "kode": "31.6", "name": "dummy", "lng": 119.525375, "lat": -5.067698,  "img": "31.6.jpg"},, 
+						{"show": "false", "kode": "", "name": "dummy", "lng": 119.525375, "lat": -5.067698,  "img": "31.6.jpg"},
 						{"show": "true", "kode": "31.25", "name": "Bandara Sultan Hasanuddin", "lng": 119.544996, "lat": -5.0753561, "img": "31.25.jpg"}
 					]
 				}, {
