@@ -58,6 +58,7 @@
 						{"show": "true", "kode": "31.22", "name": "Kementrian Lingkungan Hidup", "lng": 119.516950, "lat": -5.090016, "img": "31.22.jpg"},
 						{"show": "true", "kode": "31.23", "name": "Citra Sudiang Indah", "lng": 119.519417, "lat": -5.086149, "img": "31.23.jpg"},
 						{"show": "true", "kode": "31.24", "name": "Bumi Permata Sudiang", "lng": 119.522974, "lat": -5.075432, "img": "31.24.jpg"},
+						{"show": "false", "kode": "31.6", "name": "dummy", "lng": 119.525375, "lat": -5.067698,  "img": "31.6.jpg"},, 
 						{"show": "true", "kode": "31.25", "name": "Bandara Sultan Hasanuddin", "lng": 119.544996, "lat": -5.0753561, "img": "31.25.jpg"}
 					]
 				}, {
